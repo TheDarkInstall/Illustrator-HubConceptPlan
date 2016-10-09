@@ -3,7 +3,9 @@
 
 Aiming for the following;
 
--Wide stance
--Decent bracing angle
--Well balanced L/R
--Simple bearing arrangement
+- Wide stance
+- Decent bracing angle, and therefore optimum tensions
+- Well balanced L/R
+- Simple bearing arrangement
+- Light weight
+- Effective bearing preload system
